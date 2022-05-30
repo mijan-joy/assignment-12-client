@@ -2,7 +2,7 @@
 
 ## Website Live Link:
 
-Link: [https://tool-planet.web.app/](https://tool-planet.web.app/)
+Link: [https://manufacture-tools.netlify.app/](https://manufacture-tools.netlify.app/)
 
 # Technology Used:
 
